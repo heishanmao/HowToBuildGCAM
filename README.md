@@ -5,8 +5,7 @@
 
 # 3+1 libraries (Hector)
     
-    ![avatar](https://github.com/heishanmao/HowToBuildGCAM/blob/master/pic/1.png)
-    ![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/Res/Aaron_Swartz.jpg)
+    ![avatar](https://github.com/heishanmao/HowToBuildGCAM/raw/master/pic/1.png)
     
 ## Building third party libraries
    1. Boost
