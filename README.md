@@ -5,7 +5,7 @@
 
 # 3+1 libraries (Hector)
     
-    ![avatar](pic/1.png)
+    ![avatar](https://github.com/heishanmao/HowToBuildGCAM/blob/master/pic/1.png)
     
 ## Building third party libraries
    1. Boost
