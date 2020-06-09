@@ -5,8 +5,8 @@
 
 # 3+1 libraries (Hector)
     
-    ![avatar](/1.png)
-
+    ![avatar](pic/1.png)
+    
 ## Building third party libraries
    1. Boost
    
